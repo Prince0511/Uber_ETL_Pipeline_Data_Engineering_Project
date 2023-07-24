@@ -4,6 +4,9 @@
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies. The project leverages the power of Google Cloud Platform, Python, and a Modern Data Pipeline Tool, Mage, along with other technologies such as Google Storage, Google Engine, BigQuery, and Looker Studio.
 
+## Architecture 
+<img src="architecture.jpg">
+
 ## Technology Stack:
 
 ### Languages:
